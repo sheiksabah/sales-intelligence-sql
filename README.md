@@ -23,4 +23,4 @@ and identify trends in sales, customers, products, and revenue.
 
 ## Project Status
 
-🚧 In Progress
+In Progress
